@@ -49,4 +49,11 @@
     
 
 ![devmoonpy's github stats](https://github-readme-stats.vercel.app/api?username=devmoonpy&show_icons=true)
+
 </div>
+<div align=center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmoonpy)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
