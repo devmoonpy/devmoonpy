@@ -1,10 +1,4 @@
 # 🌕 MOON | Security & Infrastructure
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Vulnerability_Analysis-0056b3?style=flat-square&logo=target&logoColor=white">
-  <img src="https://img.shields.io/badge/Environment-Kali_Linux-0056b3?style=flat-square&logo=kali-linux&logoColor=white">
-</p>
-
 ---
 <table border="0">
   <tr>
