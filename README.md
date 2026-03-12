@@ -1,20 +1,40 @@
-## Blur <a id="blur">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=50&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=MOON;Ethical+Hacker+%2F+Pentester;Infrastructure+Red+Teamer;0day+Hunter" />
+</div>
+<pre align="center">
+       .-""""""""-.
+    .'          '.
+   /   ʕ ˵O ₒ O˵ ʔ  \
+  : ,          : '
+   `._         _.' 
+      `"'"""""'"` 
+   HACK THE PLANET
+</pre>
 
-[![blur](docs/samples/blur.svg)](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Blur&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
+```text
+class MOON:
+    handle   = "@devmoonpy"
+    location = "Gwangju, KR"
+    role     = "Infrastructure Pentester / Red Team"
+    motto    = "Break to secure."
+    current  = ["Infra pentest", "AD attacks", "Cloud exploits"]
+    tools    = ["Nmap", "Burp", "Metasploit", "BloodHound", "Cobalt", "Kali"]
+```
 
-<hr/>
----
+
+  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,docker,aws">
+
+--- 
 <table border="0">
   <tr>
-    <td align="center" width="450">
-      <img src="https://github-readme-stats.vercel.app/api?username=devmoonpy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=ffffff00&title_color=0056b3&icon_color=0056b3&text_color=333333" height="150" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=devmoonpy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="100%">
     </td>
-    <td align="left" valign="top" width="300">
-      <img src="https://img.shields.io/badge/AWS-0056b3?style=flat-square&logo=amazon-aws&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Docker-0056b3?style=flat-square&logo=docker&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Kali_Linux-0056b3?style=flat-square&logo=kali-linux&logoColor=white"/>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmoonpy&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=ffffff" width="100%">
     </td>
   </tr>
 </table>
 
----
+
+
