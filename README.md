@@ -1,59 +1,58 @@
-<p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20world!&fontSize=70" />
-</p>
-<br>
+# ![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=[본인이름/닉네임]&fontSize=50)
 
-<p align="center">
-<Strong>📧Email📧</Strong><br>dev.moon.py@gmail.com<br>
-</p>
+### 👨‍💻 Web Publisher | IT Security Learner
+> "사용자 경험을 디자인하는 퍼블리싱과 안전한 웹 환경을 구축하는 보안의 접점을 탐구합니다."
 
 <br>
 
-<p align="center">
-안녕하세요👐<br>
-제 이름은 문대현입니다.<br>
-파이썬 개발자로 일하고 있으며<br> 
-보안에 관심이 많습니다.<br>
+### 🛠 Tech Stack
+
+**Publishing & Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</p>
+
+**Environment & Security**
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
+**Productivity**
+<p>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
 <br>
 
-<p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡usually use it and I'm most confident.
-</p>
-
-<p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-
-
-</p><br>
-
-<p align="center">
-    💡used at least once
-</p>
-
-<p align="center" display="inline-block">
- 
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-</p>
-
+### 🔭 Currently Working On
+- [ ] 웹 퍼블리싱 포트폴리오 사이트 제작 중
+- [ ] 보안 관련 기술 영어 문서 리딩 및 학습
+- [ ] Notion을 활용한 워크플로우 자동화 설계
 
 <br>
 
-<div align=center>
-    
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=buefy&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인ID]&layout=compact&theme=buefy&hide_border=true" height="150" />
+</p>
 
-![devmoonpy's github stats](https://github-readme-stats.vercel.app/api?username=devmoonpy&show_icons=true)
+<br>
 
-</div>
-<div align=center>
+### 📫 Connect with me
+<p align="left">
+  <a href="mailto:[본인이메일]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="[본인블로그주소]" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmoonpy)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
+---
+*Last Updated: 2026-03-12*
