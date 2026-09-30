@@ -8,4 +8,4 @@ Exploring **Web Security**, **Server Security**, and **Network Security**.
 
 Currently at **FORYOUCOM**. Built [FORYOUCOM's website](https://xn--2r5b66l8me.com/).
 
-[Website & notes ↗](https://devmoonpy.github.io/)
+[Website ↗](https://devmoonpy.github.io/)
